@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Theo0x1337)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Theo0x1337&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Theo0x1337/Theo0x1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
