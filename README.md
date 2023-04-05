@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my Github page !</h1>
 
+<div align="center"><img src="https://ar.toneden.io/43970731/81c05c13-2501-4fe1-a456-e07c5e6720de"/></div>
+
 <h3 align="center"> About me </h3>
   
 <p style="font-size:4em">I'm Théo, a junior IT engineer based in Lyon, France. I'm interested in web technologies, both backend and frontend. I also have a great interest in blockchain technologies ! Don't hesitate to get in touch with me, I would be happy to chat whatever the subject is !<p>
