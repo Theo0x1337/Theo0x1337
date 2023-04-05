@@ -2,7 +2,7 @@
 
 <h3 align="center"> About me </>
   
-  <p>I'm Théo, a junior developper based in Lyon, France. I'm interested in web technologies, both backend and frontend. I also have a great interest in blockchain technologies ! Don't hesitate to get in touch with me, I would be happy to chat whatever the subject is !<p>
+  <p font-size:15px>I'm Théo, a junior developper based in Lyon, France. I'm interested in web technologies, both backend and frontend. I also have a great interest in blockchain technologies ! Don't hesitate to get in touch with me, I would be happy to chat whatever the subject is !<p>
   
 <h3 align="center"> Languages </h3>
 
